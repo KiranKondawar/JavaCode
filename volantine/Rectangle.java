@@ -9,8 +9,6 @@ class Rectangle extends polygon{
 		super(side1,side2,side1,side2);
 		
 	}
-	
-	
 	public Double getArea() {
 		return side1*side2;
 	}
